@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ir.piana.repo</groupId>
+  <artifactId>piana-repo</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190810032553</lastUpdated>
+  </versioning>
+</metadata>
